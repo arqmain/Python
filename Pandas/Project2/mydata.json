@@ -1,0 +1,335 @@
+[
+  {
+    "url": "https://api.github.com/repos/pandas-dev/pandas/issues/19247",
+    "repository_url": "https://api.github.com/repos/pandas-dev/pandas",
+    "labels_url": "https://api.github.com/repos/pandas-dev/pandas/issues/19247/labels{/name}",
+    "comments_url": "https://api.github.com/repos/pandas-dev/pandas/issues/19247/comments",
+    "events_url": "https://api.github.com/repos/pandas-dev/pandas/issues/19247/events",
+    "html_url": "https://github.com/pandas-dev/pandas/pull/19247",
+    "id": 288597290,
+    "number": 19247,
+    "title": "DEPR: change Panel DeprecationWarning -> FutureWarning",
+    "user": {
+      "login": "jreback",
+      "id": 953992,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/953992?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jreback",
+      "html_url": "https://github.com/jreback",
+      "followers_url": "https://api.github.com/users/jreback/followers",
+      "following_url": "https://api.github.com/users/jreback/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jreback/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jreback/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jreback/subscriptions",
+      "organizations_url": "https://api.github.com/users/jreback/orgs",
+      "repos_url": "https://api.github.com/users/jreback/repos",
+      "events_url": "https://api.github.com/users/jreback/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jreback/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "id": 87485152,
+        "url": "https://api.github.com/repos/pandas-dev/pandas/labels/Deprecate",
+        "name": "Deprecate",
+        "color": "5319e7",
+        "default": false
+      },
+      {
+        "id": 452722332,
+        "url": "https://api.github.com/repos/pandas-dev/pandas/labels/Panel",
+        "name": "Panel",
+        "color": "d4c5f9",
+        "default": false
+      }
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": {
+      "url": "https://api.github.com/repos/pandas-dev/pandas/milestones/53",
+      "html_url": "https://github.com/pandas-dev/pandas/milestone/53",
+      "labels_url": "https://api.github.com/repos/pandas-dev/pandas/milestones/53/labels",
+      "id": 2853937,
+      "number": 53,
+      "title": "0.23.0",
+      "description": "after 0.22",
+      "creator": {
+        "login": "jreback",
+        "id": 953992,
+        "avatar_url": "https://avatars2.githubusercontent.com/u/953992?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/jreback",
+        "html_url": "https://github.com/jreback",
+        "followers_url": "https://api.github.com/users/jreback/followers",
+        "following_url": "https://api.github.com/users/jreback/following{/other_user}",
+        "gists_url": "https://api.github.com/users/jreback/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/jreback/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/jreback/subscriptions",
+        "organizations_url": "https://api.github.com/users/jreback/orgs",
+        "repos_url": "https://api.github.com/users/jreback/repos",
+        "events_url": "https://api.github.com/users/jreback/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/jreback/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "open_issues": 105,
+      "closed_issues": 620,
+      "state": "open",
+      "created_at": "2017-10-20T10:17:09Z",
+      "updated_at": "2018-01-15T14:52:33Z",
+      "due_on": "2018-01-31T08:00:00Z",
+      "closed_at": null
+    },
+    "comments": 2,
+    "created_at": "2018-01-15T13:39:04Z",
+    "updated_at": "2018-01-15T15:11:40Z",
+    "closed_at": null,
+    "author_association": "CONTRIBUTOR",
+    "pull_request": {
+      "url": "https://api.github.com/repos/pandas-dev/pandas/pulls/19247",
+      "html_url": "https://github.com/pandas-dev/pandas/pull/19247",
+      "diff_url": "https://github.com/pandas-dev/pandas/pull/19247.diff",
+      "patch_url": "https://github.com/pandas-dev/pandas/pull/19247.patch"
+    },
+    "body": "closes #18324\r\n"
+  },
+  {
+    "url": "https://api.github.com/repos/pandas-dev/pandas/issues/19246",
+    "repository_url": "https://api.github.com/repos/pandas-dev/pandas",
+    "labels_url": "https://api.github.com/repos/pandas-dev/pandas/issues/19246/labels{/name}",
+    "comments_url": "https://api.github.com/repos/pandas-dev/pandas/issues/19246/comments",
+    "events_url": "https://api.github.com/repos/pandas-dev/pandas/issues/19246/events",
+    "html_url": "https://github.com/pandas-dev/pandas/pull/19246",
+    "id": 288581821,
+    "number": 19246,
+    "title": "CLN: Refactor Index._validate_names()",
+    "user": {
+      "login": "PoppyBagel",
+      "id": 34628304,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/34628304?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/PoppyBagel",
+      "html_url": "https://github.com/PoppyBagel",
+      "followers_url": "https://api.github.com/users/PoppyBagel/followers",
+      "following_url": "https://api.github.com/users/PoppyBagel/following{/other_user}",
+      "gists_url": "https://api.github.com/users/PoppyBagel/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/PoppyBagel/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/PoppyBagel/subscriptions",
+      "organizations_url": "https://api.github.com/users/PoppyBagel/orgs",
+      "repos_url": "https://api.github.com/users/PoppyBagel/repos",
+      "events_url": "https://api.github.com/users/PoppyBagel/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/PoppyBagel/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "id": 2822098,
+        "url": "https://api.github.com/repos/pandas-dev/pandas/labels/Indexing",
+        "name": "Indexing",
+        "color": "0b02e1",
+        "default": false
+      },
+      {
+        "id": 49094459,
+        "url": "https://api.github.com/repos/pandas-dev/pandas/labels/Internals",
+        "name": "Internals",
+        "color": "fbca04",
+        "default": false
+      }
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2018-01-15T12:42:02Z",
+    "updated_at": "2018-01-15T14:12:36Z",
+    "closed_at": null,
+    "author_association": "NONE",
+    "pull_request": {
+      "url": "https://api.github.com/repos/pandas-dev/pandas/pulls/19246",
+      "html_url": "https://github.com/pandas-dev/pandas/pull/19246",
+      "diff_url": "https://github.com/pandas-dev/pandas/pull/19246.diff",
+      "patch_url": "https://github.com/pandas-dev/pandas/pull/19246.patch"
+    },
+    "body": "- [x] closes #19171\r\n- [x] tests passed\r\n- [x] passes `git diff upstream/master -u -- \"*.py\" | flake8 --diff`"
+  },
+  {
+    "url": "https://api.github.com/repos/pandas-dev/pandas/issues/19245",
+    "repository_url": "https://api.github.com/repos/pandas-dev/pandas",
+    "labels_url": "https://api.github.com/repos/pandas-dev/pandas/issues/19245/labels{/name}",
+    "comments_url": "https://api.github.com/repos/pandas-dev/pandas/issues/19245/comments",
+    "events_url": "https://api.github.com/repos/pandas-dev/pandas/issues/19245/events",
+    "html_url": "https://github.com/pandas-dev/pandas/pull/19245",
+    "id": 288488277,
+    "number": 19245,
+    "title": "Doc: Adds example of categorical data for efficient storage and consistency across DataFrames",
+    "user": {
+      "login": "pdpark",
+      "id": 16848166,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/16848166?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/pdpark",
+      "html_url": "https://github.com/pdpark",
+      "followers_url": "https://api.github.com/users/pdpark/followers",
+      "following_url": "https://api.github.com/users/pdpark/following{/other_user}",
+      "gists_url": "https://api.github.com/users/pdpark/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/pdpark/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/pdpark/subscriptions",
+      "organizations_url": "https://api.github.com/users/pdpark/orgs",
+      "repos_url": "https://api.github.com/users/pdpark/repos",
+      "events_url": "https://api.github.com/users/pdpark/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/pdpark/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "id": 134699,
+        "url": "https://api.github.com/repos/pandas-dev/pandas/labels/Docs",
+        "name": "Docs",
+        "color": "3465A4",
+        "default": false
+      }
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 1,
+    "created_at": "2018-01-15T06:00:54Z",
+    "updated_at": "2018-01-15T14:00:41Z",
+    "closed_at": null,
+    "author_association": "NONE",
+    "pull_request": {
+      "url": "https://api.github.com/repos/pandas-dev/pandas/pulls/19245",
+      "html_url": "https://github.com/pandas-dev/pandas/pull/19245",
+      "diff_url": "https://github.com/pandas-dev/pandas/pull/19245.diff",
+      "patch_url": "https://github.com/pandas-dev/pandas/pull/19245.patch"
+    },
+    "body": "- [X] closes #12509 "
+  },
+  {
+    "url": "https://api.github.com/repos/pandas-dev/pandas/issues/19244",
+    "repository_url": "https://api.github.com/repos/pandas-dev/pandas",
+    "labels_url": "https://api.github.com/repos/pandas-dev/pandas/issues/19244/labels{/name}",
+    "comments_url": "https://api.github.com/repos/pandas-dev/pandas/issues/19244/comments",
+    "events_url": "https://api.github.com/repos/pandas-dev/pandas/issues/19244/events",
+    "html_url": "https://github.com/pandas-dev/pandas/pull/19244",
+    "id": 288476056,
+    "number": 19244,
+    "title": "BUG: unsupported type Interval when writing dataframe to excel",
+    "user": {
+      "login": "cbertinato",
+      "id": 20772838,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/20772838?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/cbertinato",
+      "html_url": "https://github.com/cbertinato",
+      "followers_url": "https://api.github.com/users/cbertinato/followers",
+      "following_url": "https://api.github.com/users/cbertinato/following{/other_user}",
+      "gists_url": "https://api.github.com/users/cbertinato/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/cbertinato/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/cbertinato/subscriptions",
+      "organizations_url": "https://api.github.com/users/cbertinato/orgs",
+      "repos_url": "https://api.github.com/users/cbertinato/repos",
+      "events_url": "https://api.github.com/users/cbertinato/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/cbertinato/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "id": 31404521,
+        "url": "https://api.github.com/repos/pandas-dev/pandas/labels/Dtypes",
+        "name": "Dtypes",
+        "color": "e102d8",
+        "default": false
+      },
+      {
+        "id": 49254273,
+        "url": "https://api.github.com/repos/pandas-dev/pandas/labels/IO%20Excel",
+        "name": "IO Excel",
+        "color": "bfe5bf",
+        "default": false
+      }
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 1,
+    "created_at": "2018-01-15T04:08:46Z",
+    "updated_at": "2018-01-15T13:35:00Z",
+    "closed_at": null,
+    "author_association": "CONTRIBUTOR",
+    "pull_request": {
+      "url": "https://api.github.com/repos/pandas-dev/pandas/pulls/19244",
+      "html_url": "https://github.com/pandas-dev/pandas/pull/19244",
+      "diff_url": "https://github.com/pandas-dev/pandas/pull/19244.diff",
+      "patch_url": "https://github.com/pandas-dev/pandas/pull/19244.patch"
+    },
+    "body": "- [x] closes #19242 \r\n- [x] whatsnew entry\r\n"
+  },
+  {
+    "url": "https://api.github.com/repos/pandas-dev/pandas/issues/19243",
+    "repository_url": "https://api.github.com/repos/pandas-dev/pandas",
+    "labels_url": "https://api.github.com/repos/pandas-dev/pandas/issues/19243/labels{/name}",
+    "comments_url": "https://api.github.com/repos/pandas-dev/pandas/issues/19243/comments",
+    "events_url": "https://api.github.com/repos/pandas-dev/pandas/issues/19243/events",
+    "html_url": "https://github.com/pandas-dev/pandas/issues/19243",
+    "id": 288466952,
+    "number": 19243,
+    "title": "core.internals checking `hasattr(item, 'reindex_axis')`",
+    "user": {
+      "login": "jbrockmendel",
+      "id": 8078968,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8078968?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jbrockmendel",
+      "html_url": "https://github.com/jbrockmendel",
+      "followers_url": "https://api.github.com/users/jbrockmendel/followers",
+      "following_url": "https://api.github.com/users/jbrockmendel/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jbrockmendel/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jbrockmendel/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jbrockmendel/subscriptions",
+      "organizations_url": "https://api.github.com/users/jbrockmendel/orgs",
+      "repos_url": "https://api.github.com/users/jbrockmendel/repos",
+      "events_url": "https://api.github.com/users/jbrockmendel/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jbrockmendel/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2018-01-15T02:50:40Z",
+    "updated_at": "2018-01-15T02:50:40Z",
+    "closed_at": null,
+    "author_association": "CONTRIBUTOR",
+    "body": "`Block` and `SparseBlock` each have a `reindex_axis` method that is not used anywhere, _but_ a bunch of things in core.internals do a check of the form\r\n\r\n```\r\nif hasattr(new, 'reindex_axis'):\r\n    new = new.values\r\n\r\nif hasattr(mask, 'reindex_axis'):\r\n     mask = mask.values\r\n```\r\n\r\nIt would be nice to get rid of the unused methods.  Any idea what this ducktype checks are actually intending to catch?\r\n"
+  }
+]
