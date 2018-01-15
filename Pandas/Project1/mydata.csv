@@ -1,0 +1,11 @@
+,first_name,last_name,age,gender,country,math,english,computer
+0,Jason,Miller,42,m,USA,45,45,55
+1,999,999,999,999,999,999,999,999
+2,Tina,Marteli,36,f,Italy,.,999,999
+3,Jake,Chin,24,m,china,62,62,62
+4,Amy,.,33,f,USA,73,73,70
+5,Rachel,Loren,19,f,UK,85,85,85
+6,Paul,MISSING,999,m,USA,.,68,90
+7,Jack,Trump,42,999,USA,79,79,89
+8,Robert,DNiro,36,m,USA,98,98,87
+9,Manuel,Hernandez,38,m,Mexico,88,86,65
