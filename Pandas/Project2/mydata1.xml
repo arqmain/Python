@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<data>
+    <customer name="gokhan" >
+        <email>gokhan@gmail.com</email>
+        <phone>555-1234</phone>
+        <address>
+            <street>Michigan Avenue</street>
+        </address>
+    </customer>
+    <customer name="mike" >
+        <email>mike@gmail.com</email>
+    </customer>    
+    <customer name="john" >
+        <email>john@gmail.com</email>
+        <phone>555-4567</phone>
+    </customer>  
+    <customer name="david" >
+        <phone>555-6472</phone>
+        <address>
+            <street>Fifth Avenue</street>
+        </address>
+    </customer>
+    <customer name="Robert" >
+        <email>rober1@gmail.com</email>
+        <phone>555-2431</phone>
+        <address>
+            <street>Tawin Road</street>
+        </address>
+    </customer>
+    <customer name="Rayen" >
+        <email>rayen@yahoo.com</email>
+        <phone>555-9299</phone>
+        <address>
+            <street>Spring Street</street>
+        </address>
+    </customer>            
+</data>
