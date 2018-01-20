@@ -1,10 +1,10 @@
-#Python: Data Management Tips Over Connectivity
+# Python: Data Management Tips Over Connectivity
 
 <br>
 
 ![](http://arqmain.net/iris/nnet-GoodBad-plot.png)
 
-##INTRODUCTION
+## INTRODUCTION
 
 "Management of Data Base" [Data Management or DM] is still one of the most important activities of the present times. All areas of human development anytime require performing some operations related to Data Management.
 
@@ -16,7 +16,7 @@ The database management systems considered here are SQLite, MySQL, MS-SQL, MS-AC
 
 Python is a highly dynamic ecosystem and it is having a great expansion these days. So, this publication aims to be located as a contribution on the issue of Python connectivity with updated reference in January 2018.
 
-##IMPORTANT GENERALITIES
+## IMPORTANT GENERALITIES
 The connectivity treatment is given mainly through the SQLAlchemy application and the Python PANDAS library. SQLAlchemy is used to make the connection to the databases and PANDAS to make the examples of queries that are included here.
 
 It is very important to note that in this environment the commands are translated to SQL in the background and when forced to execute, then the compiled SQL is executed on the database side and only the resulting dataset is loaded to memory. This characteristic turns to be extremely handy when v.g. The whole dataset does not fit the computer memory.
