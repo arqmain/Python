@@ -54,28 +54,23 @@ The model performance is evaluated using R, K fold cross-validation, and the ROC
 The model performance is evaluated using R, K fold cross-validation, and the ROC metric. I consider 70% and 30% original dataset splitting for the training and testing datasets respectively.
 <br>
 
-### Table of Contents   (  [  Link to R codes notebook ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_PWine_GoodBad_NNetwork_R_KFold/Project8_Portugal_WINE_TwoClass_GoodBad_NNetwork.ipynb))
+### Table of Contents   (  [  Link to Pyhon codes notebook ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_PWine_GoodBad_NNetwork_R_KFold/Project8_Portugal_WINE_TwoClass_GoodBad_NNetwork.ipynb))
 
-#### I Introduction
+#### I INTRODUCTION
 
-#### II Loading, EDA and Data Preprocessing
+#### II DATABASES
 
-##### 21 Loading the data
+#### III CONNECTIVITY WITH PYTHON
 
-##### 22 Exploratory Data Analysis (EDA) and Data Preprocessing
+##### 31 Python / SQLite
 
-#### III Getting train and test datasets
+##### 32 Python / PostgreSQL
 
-#### IV Neural Network
+##### 33 Python / MS_SQL
 
-##### 41 Building Machine Learning Model
+##### 34 Python / MySQL
 
-##### 42 Plotting the Neural Network selected model
-
-#### V Making predictions
-
-#### VI Conclusion
-
+##### 35 Python / MS-ACCESS
 
 <hr>
 
