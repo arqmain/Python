@@ -1,4 +1,4 @@
-# Python: Data Management Tips Over Connectivity
+# PYTHON: DATA MANAGEMENT TIPS OVER CONNECTIVITY
 
 <br>
 
