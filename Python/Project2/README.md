@@ -14,7 +14,7 @@ Python is a highly dynamic ecosystem and it is having a great expansion these da
 
 <br>
 
-### Table of Contents   (  [  Link to Pyhon codes notebook ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_PWine_GoodBad_NNetwork_R_KFold/Project8_Portugal_WINE_TwoClass_GoodBad_NNetwork.ipynb))
+### Table of Contents   (  [  Link to Pyhon codes notebook ](http://www.arqmain.net/GITHUBE/Python/Python/Project2/Python_BDatos_Connectivity.html))
 
 #### I INTRODUCTION
 
