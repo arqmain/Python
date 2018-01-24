@@ -8,8 +8,8 @@ This project covers the specific topic of connectivity with some of the more fre
 
 The principal approach of this work lies in delivering efficient ways of connectivity.  At the same time, it is included specific examples for each case and uses some practical “queries" to get information from databases.
 
-The database management systems considered here are SQLite, MySQL, MS-SQL, MS-ACCESS, and PostgreSQL.  
-
+The database management systems considered here are SQLite, MySQL, MS-SQL, MS-ACCESS, and PostgreSQL. In addition, a way to connect Python with "AWS-RDS Online Platform" is also provided.
+ 
 Python is a highly dynamic ecosystem and it is having a great expansion these days. So, this publication aims to be located as a contribution on the issue of Python connectivity with updated reference in January 2018.
 
 <br>
@@ -31,6 +31,8 @@ Python is a highly dynamic ecosystem and it is having a great expansion these da
 ##### 34 Python / MySQL
 
 ##### 35 Python / MS-ACCESS
+
+##### 36 Python / AWS-RDS Online Platform
 
 #### IV REFERENCES
 <hr>
