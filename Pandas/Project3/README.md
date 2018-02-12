@@ -5,7 +5,7 @@
 
 This project show a way to process information about some movies of the 20th century that is available on the movielens web site.
 
-![](http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/house-for-sale-sign-small.jpg)
+![](http://www.arqmain.net/MLearning/PythonProjects/Pandas/Project3/movies_rating.png)
 
 The connectivity treatment is given mainly through SQLITE and the Python PANDAS library. SQLITE is used to make the connection to the databases and PANDAS to make the queries that are included here. I choose SQLITE because of its great portability option.
 
