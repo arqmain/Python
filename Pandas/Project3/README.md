@@ -24,16 +24,16 @@ The main contribution of this project relates to the process of information in a
 
 * DATA ANALYSIS
 
-What about the 10 most voted movies?
-What about 10 most voted movies, among those voted at least 100 times?
-What about 10 movies more highly rating?
-What about 10 movies more highly rating, among those voted at least 100 times?
-What about movies amongst occupations?
-What about movies amongst ages groups?
-What about movies amongst sex?
-What about movies that men and women most like or dislike on rating?
+What about the 10 most voted movies?<br>
+What about 10 most voted movies, among those voted at least 100 times?<br>
+What about 10 movies more highly rating?<br>
+What about 10 movies more highly rating, among those voted at least 100 times?<br>
+What about movies amongst occupations?<br>
+What about movies amongst ages groups?<br>
+What about movies amongst sex?<br>
+What about movies that men and women most like or dislike on rating?<br>
 
-><b>VI CONCLUSION</b><br>
+* CONCLUSION
 
 <hr>
 
