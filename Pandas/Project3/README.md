@@ -7,7 +7,9 @@ This project show a way to process information about some movies of the 20th cen
 
 The connectivity treatment is given mainly through SQLITE and the Python PANDAS library. SQLITE is used to make the connection to the databases and PANDAS to make the queries that are included here. I choose SQLITE because of its great portability option.
 
+<center>
 ![](http://www.arqmain.net/MLearning/PythonProjects/Pandas/Project3/movies_rating.png)
+</center>
 
 The main contribution of this project relates to the process of information in a backend mode. That is, the development of the project is achieved through successive queries to the main database (movies.db) and its initial component tables (users, ratings, and movies) that are located on the computer's hard drive.
 
