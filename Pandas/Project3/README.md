@@ -1,4 +1,4 @@
-# Python-Pandas: Movie Films Data Analysis Using SLite Database Platform and Pandas
+# Python-Pandas: Movie Films Data Analysis Using SQLite Database Platform and Pandas
 
 <br>
 
