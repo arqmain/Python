@@ -1,0 +1,309 @@
+Name,Party,Province,Age,Gender,Age Bin
+"Liu, Laurin",NDP,Quebec,22,Female,20
+"Mourani, Maria",Bloc Quebecois,Quebec,43,Female,40
+"Sellah, Djaouida",NDP,Quebec,18,Female,10
+"St-Denis, Lise",NDP,Quebec,72,Female,70
+"Fry, Hedy",Liberal,British Columbia,71,Female,70
+"Turmel, Nycole",NDP,Quebec,70,Female,70
+"Sgro, Judy",Liberal,Ontario,68,Female,60
+"Raynault, Francine",NDP,Quebec,67,Female,60
+"Davidson, Patricia",Conservative,Ontario,66,Female,60
+"Smith, Joy",Conservative,Manitoba,65,Female,60
+"Wong, Alice",Conservative,British Columbia,64,Female,60
+"O'Neill Gordon, Tilly",Conservative,New Brunswick,63,Female,60
+"Ablonczy, Diane",Conservative,Alberta,63,Female,60
+"Duncan, Linda Francis",NDP,Alberta,63,Female,60
+"Bennett, Carolyn",Liberal,Ontario,62,Female,60
+"Nash, Peggy",NDP,Ontario,61,Female,60
+"Mathyssen, Irene",NDP,Ontario,61,Female,60
+"Sims, Jinny Jogindera",NDP,British Columbia,60,Female,60
+"Foote, Judy",Liberal,Newfoundland and Labrador,60,Female,60
+"Crowder, Jean",NDP,British Columbia,60,Female,60
+"Davies, Libby",NDP,British Columbia,59,Female,50
+"Yelich, Lynne",Conservative,Saskatchewan,59,Female,50
+"Day, Anne-Marie",NDP,Quebec,58,Female,50
+"May, Elizabeth",Green,British Columbia,58,Female,50
+"Murray, Joyce",Liberal,British Columbia,58,Female,50
+"Findlay, Kerry-Lynne D.",Conservative,British Columbia,57,Female,50
+"Brown, Lois",Conservative,Ontario,57,Female,50
+"Laverdière, Hélène",NDP,Quebec,57,Female,50
+"Boutin-Sweet, Marjolaine",NDP,Quebec,57,Female,50
+"Crockatt, Joan",Conservative,Alberta,56,Female,50
+"Chow, Olivia",NDP,Ontario,55,Female,50
+"McLeod, Cathy",Conservative,British Columbia,55,Female,50
+"Finley, Diane",Conservative,Ontario,55,Female,50
+"LeBlanc, Hélène",NDP,Quebec,54,Female,50
+"Grewal, Nina",Conservative,British Columbia,54,Female,50
+"Hughes, Carol",NDP,Ontario,54,Female,50
+"Shea, Gail",Conservative,Prince Edward Island,53,Female,50
+"Truppe, Susan",Conservative,Ontario,53,Female,50
+"Young, Wai",Conservative,British Columbia,52,Female,50
+"Gallant, Cheryl",Conservative,Ontario,52,Female,50
+"Boivin, Françoise",NDP,Quebec,52,Female,50
+"Block, Kelly",Conservative,Saskatchewan,51,Female,50
+"Ayala, Paulina",NDP,Quebec,50,Female,50
+"Groguhé, Sadia",NDP,Quebec,50,Female,50
+"Charlton, Chris",NDP,Ontario,49,Female,40
+"Bergen, Candice",Conservative,Manitoba,48,Female,40
+"Perreault, Manon",NDP,Quebec,46,Female,40
+"James, Roxanne",Conservative,Ontario,46,Female,40
+"Ambler, Stella",Conservative,Ontario,46,Female,40
+"Duncan, Kirsty",Liberal,Ontario,46,Female,40
+"Glover, Shelly",Conservative,Manitoba,45,Female,40
+"Aglukkaq, Leona",Conservative,Territories,45,Female,40
+"Raitt, Lisa",Conservative,Ontario,44,Female,40
+"Ambrose, Rona",Conservative,Alberta,43,Female,40
+"Leitch, Kellie",Conservative,Ontario,42,Female,40
+"Leslie, Megan",NDP,Nova Scotia,39,Female,30
+"Hassainia, Sana",NDP,Quebec,38,Female,30
+"Adams, Eve",Conservative,Ontario,38,Female,30
+"Rempel, Michelle",Conservative,Alberta,32,Female,30
+"Papillon, Annick",NDP,Quebec,32,Female,30
+"Sitsabaiesan, Rathika",NDP,Ontario,31,Female,30
+"Quach, Anne Minh-Thu",NDP,Quebec,30,Female,30
+"Ashton, Niki",NDP,Manitoba,30,Female,30
+"Moore, Christine",NDP,Quebec,29,Female,20
+"Morin, Isabelle",NDP,Quebec,28,Female,20
+"Blanchette-Lamothe, Lysane",NDP,Quebec,28,Female,20
+"Brosseau, Ruth Ellen",NDP,Quebec,28,Female,20
+"Latendresse, Alexandrine",NDP,Quebec,28,Female,20
+"Doré Lefebvre, Rosane",NDP,Quebec,28,Female,20
+"Morin, Marie-Claude",NDP,Quebec,27,Female,20
+"Michaud, Élaine",NDP,Quebec,27,Female,20
+"Péclet, Ève",NDP,Quebec,24,Female,20
+"Freeman, Mylène",NDP,Quebec,23,Female,20
+"Borg, Charmaine",NDP,Quebec,22,Female,20
+"Bateman, Joyce",Conservative,Manitoba,19,Female,10
+"Hiebert, Russ",Conservative,British Columbia,43,Male,40
+"Jacob, Pierre",NDP,Quebec,59,Male,50
+"Vellacott, Maurice",Conservative,Saskatchewan,57,Male,50
+"Boughen, Ray",Conservative,Saskatchewan,75,Male,70
+"O'Connor, Gordon",Conservative,Ontario,73,Male,70
+"Cotler, Irwin",Liberal,Quebec,72,Male,70
+"Oliver, Joe",Conservative,Ontario,72,Male,70
+"Tilson, David Allan",Conservative,Ontario,71,Male,70
+"Fantino, Julian",Conservative,Ontario,70,Male,70
+"Kent, Peter",Conservative,Ontario,69,Male,60
+"Plamondon, Louis",Bloc Quebecois,Quebec,69,Male,60
+"Schellenberger, Gary",Conservative,Ontario,69,Male,60
+"Lauzon, Guy",Conservative,Ontario,68,Male,60
+"Harris, Richard M.",Conservative,British Columbia,68,Male,60
+"Goldring, Peter",Conservative,Alberta,68,Male,60
+"Atamanenko, Alex",NDP,British Columbia,67,Male,60
+"Payne, LaVar",Conservative,Alberta,67,Male,60
+"Breitkreuz, Garry W.",Conservative,Saskatchewan,67,Male,60
+"Genest, Réjean",NDP,Quebec,66,Male,60
+"MacKenzie, Dave",Conservative,Ontario,66,Male,60
+"Hyer, Bruce",NDP,Ontario,66,Male,60
+"MacAulay, Lawrence",Liberal,Prince Edward Island,66,Male,60
+"Galipeau, Royal",Conservative,Ontario,65,Male,60
+"Marston, Wayne",NDP,Ontario,65,Male,60
+"Hawn, Laurie",Conservative,Alberta,65,Male,60
+"Kramp, Daryl",Conservative,Ontario,65,Male,60
+"Shipley, Bev",Conservative,Ontario,65,Male,60
+"Kerr, Greg",Conservative,Nova Scotia,65,Male,60
+"Comartin, Joe",NDP,Ontario,65,Male,60
+"Norlock, Rick",Conservative,Ontario,64,Male,60
+"McKay, John",Liberal,Ontario,64,Male,60
+"Mayes, Colin",Conservative,British Columbia,64,Male,60
+"Rae, Bob",Liberal,Ontario,64,Male,60
+"Harris, Jack",NDP,Newfoundland and Labrador,64,Male,60
+"Duncan, John",Conservative,British Columbia,64,Male,60
+"Chisu, Corneliu",Conservative,Ontario,63,Male,60
+"Garneau, Marc",Liberal,Quebec,63,Male,60
+"Easter, Arnold Wayne",Liberal,Prince Edward Island,63,Male,60
+"Aspin, Jay",Conservative,Ontario,63,Male,60
+"Goodale, Ralph",Liberal,Saskatchewan,63,Male,60
+"Albrecht, Harold",Conservative,Ontario,63,Male,60
+"Gravelle, Claude",NDP,Ontario,63,Male,60
+"Komarnicki, Ed",Conservative,Saskatchewan,63,Male,60
+"Flaherty, James Michael (Jim)",Conservative,Ontario,62,Male,60
+"Rankin, Murray",NDP,British Columbia,62,Male,60
+"McCallum, John",Liberal,Ontario,62,Male,60
+"Warawa, Mark",Conservative,British Columbia,62,Male,60
+"Obhrai, Deepak",Conservative,Alberta,62,Male,60
+"Benoit, Leon Earl",Conservative,Alberta,62,Male,60
+"Leung, Chungsen",Conservative,Ontario,62,Male,60
+"Morin, Marc-André",NDP,Quebec,61,Male,60
+"Sopuck, Robert",Conservative,Manitoba,61,Male,60
+"Ritz, Gerry",Conservative,Saskatchewan,61,Male,60
+"Garrison, Randall",NDP,British Columbia,61,Male,60
+"Lunney, James",Conservative,British Columbia,61,Male,60
+"Lukiwski, Tom",Conservative,Saskatchewan,61,Male,60
+"Carmichael, John",Conservative,Ontario,60,Male,60
+"Menzies, Ted",Conservative,Alberta,60,Male,60
+"Valcourt, Bernard",Conservative,New Brunswick,60,Male,60
+"Ashfield, Keith",Conservative,New Brunswick,60,Male,60
+"Nicholson, Rob",Conservative,Ontario,60,Male,60
+"Young, Terence H.",Conservative,Ontario,60,Male,60
+"Toews, Vic",Conservative,Manitoba,60,Male,60
+"Sullivan, Mike",NDP,Ontario,60,Male,60
+"Patry, Claude",NDP,Quebec,59,Male,50
+"Keddy, Gerald",Conservative,Nova Scotia,59,Male,50
+"Bevington, Dennis Fraser",NDP,Territories,59,Male,50
+"Allen, Malcolm",NDP,Ontario,59,Male,50
+"Rafferty, John",NDP,Ontario,59,Male,50
+"Dreeshen, Earl",Conservative,Alberta,59,Male,50
+"Kamp, Randy",Conservative,British Columbia,59,Male,50
+"Merrifield, Rob",Conservative,Alberta,59,Male,50
+"Woodworth, Stephen",Conservative,Ontario,58,Male,50
+"McColeman, Phil",Conservative,Ontario,58,Male,50
+"Lebel, Denis",Conservative,Quebec,58,Male,50
+"Lizon, Wladyslaw",Conservative,Ontario,58,Male,50
+"Holder, Ed",Conservative,Ontario,58,Male,50
+"Valeriote, Frank",Liberal,Ontario,58,Male,50
+"Christopherson, David",NDP,Ontario,58,Male,50
+"Mulcair, Thomas J.",NDP,Quebec,58,Male,50
+"Daniel, Joe",Conservative,Ontario,58,Male,50
+"Karygiannis, Jim",Liberal,Ontario,57,Male,50
+"Godin, Yvon",NDP,New Brunswick,57,Male,50
+"Dionne Labelle, Pierre",NDP,Quebec,57,Male,50
+"Preston, Joe",Conservative,Ontario,57,Male,50
+"Bélanger, Mauril",Liberal,Ontario,57,Male,50
+"Fast, Edward",Conservative,British Columbia,57,Male,50
+"Tweed, Mervin C.",Conservative,Manitoba,57,Male,50
+"Dion, Stéphane",Liberal,Quebec,57,Male,50
+"Van Kesteren, Dave",Conservative,Ontario,57,Male,50
+"Cuzner, Rodger",Liberal,Nova Scotia,57,Male,50
+"Martin, Pat",NDP,Manitoba,57,Male,50
+"Stoffer, Peter",NDP,Nova Scotia,56,Male,50
+"Miller, Larry",Conservative,Ontario,56,Male,50
+"Blanchette, Denis",NDP,Quebec,56,Male,50
+"Nunez-Melo, José",NDP,Quebec,56,Male,50
+"Goguen, Robert",Conservative,New Brunswick,55,Male,50
+"Scarpaleggia, Francis",Liberal,Quebec,55,Male,50
+"Sweet, David",Conservative,Ontario,55,Male,50
+"Anderson, David",Conservative,Saskatchewan,55,Male,50
+"Chisholm, Robert",NDP,Nova Scotia,55,Male,50
+"Stanton, Bruce",Conservative,Ontario,55,Male,50
+"Goodyear, Gary",Conservative,Ontario,54,Male,50
+"Weston, John",Conservative,British Columbia,54,Male,50
+"Dechert, Bob",Conservative,Ontario,54,Male,50
+"Shory, Devinder",Conservative,Alberta,54,Male,50
+"Pilon, François",NDP,Quebec,54,Male,50
+"Hayes, Bryan",Conservative,Ontario,54,Male,50
+"Giguère, Alain",NDP,Quebec,54,Male,50
+"Sorenson, Kevin",Conservative,Alberta,54,Male,50
+"Benskin, Tyrone",NDP,Quebec,53,Male,50
+"Menegakis, Costas",Conservative,Ontario,53,Male,50
+"Harper, Stephen",Conservative,Alberta,53,Male,50
+"Wilks, David",Conservative,British Columbia,53,Male,50
+"Regan, Geoff",Liberal,Nova Scotia,53,Male,50
+"McGuinty, David",Liberal,Ontario,52,Male,50
+"Gosal, Bal",Conservative,Ontario,52,Male,50
+"Aubin, Robert",NDP,Quebec,52,Male,50
+"Eyking, Mark",Liberal,Nova Scotia,52,Male,50
+"Brown, Gordon",Conservative,Ontario,52,Male,50
+"Allen, Mike",Conservative,New Brunswick,52,Male,50
+"Clement, Tony",Conservative,Ontario,51,Male,50
+"Cannan, Ronald",Conservative,British Columbia,51,Male,50
+"Rousseau, Jean",NDP,Quebec,51,Male,50
+"Opitz, Ted",Conservative,Ontario,51,Male,50
+"Toet, Lawrence",Conservative,Manitoba,50,Male,50
+"Cash, Andrew",NDP,Ontario,50,Male,50
+"Lamoureux, Kevin",Liberal,Manitoba,50,Male,50
+"Scott, Craig",NDP,Ontario,50,Male,50
+"Adler, Mark",Conservative,Ontario,50,Male,50
+"Carrie, Colin",Conservative,Ontario,50,Male,50
+"Julian, Peter",NDP,British Columbia,50,Male,50
+"Pacetti, Massimo",Liberal,Quebec,50,Male,50
+"Saganash, Romeo",NDP,Quebec,50,Male,50
+"Angus, Charlie",NDP,Ontario,50,Male,50
+"Davies, Don",NDP,British Columbia,49,Male,40
+"Bernier, Maxime",Conservative,Quebec,49,Male,40
+"Dewar, Paul",NDP,Ontario,49,Male,40
+"Jean, Brian",Conservative,Alberta,49,Male,40
+"Devolin, Barry",Conservative,Ontario,49,Male,40
+"Lemieux, Pierre",Conservative,Ontario,49,Male,40
+"Van Loan, Peter",Conservative,Ontario,49,Male,40
+"Casey, Sean",Liberal,Prince Edward Island,49,Male,40
+"Nantel, Pierre",NDP,Quebec,49,Male,40
+"Coderre, Denis",Liberal,Quebec,49,Male,40
+"Wallace, Mike",Conservative,Ontario,49,Male,40
+"Braid, Peter",Conservative,Ontario,48,Male,40
+"Gourde, Jacques",Conservative,Quebec,48,Male,40
+"Reid, Scott",Conservative,Ontario,48,Male,40
+"Hsu, Ted",Liberal,Ontario,48,Male,40
+"Saxton, Andrew",Conservative,British Columbia,48,Male,40
+"Weston, Rodney",Conservative,New Brunswick,48,Male,40
+"Penashue, Peter",Conservative,Newfoundland and Labrador,48,Male,40
+"Bellavance, André",Bloc Quebecois,Quebec,48,Male,40
+"Rathgeber, Brent",Conservative,Alberta,48,Male,40
+"Kellway, Matthew",NDP,Ontario,48,Male,40
+"Toone, Philip",NDP,Quebec,47,Male,40
+"Allison, Dean",Conservative,Ontario,47,Male,40
+"Trottier, Bernard",Conservative,Ontario,47,Male,40
+"Blaney, Steven",Conservative,Quebec,47,Male,40
+"Bezan, James",Conservative,Manitoba,47,Male,40
+"MacKay, Peter Gordon",Conservative,Nova Scotia,47,Male,40
+"Dykstra, Richard",Conservative,Ontario,46,Male,40
+"Sandhu, Jasbir",NDP,British Columbia,46,Male,40
+"Donnelly, Fin",NDP,British Columbia,46,Male,40
+"Armstrong, Scott",Conservative,Nova Scotia,46,Male,40
+"Byrne, Gerry",Liberal,Newfoundland and Labrador,46,Male,40
+"Stewart, Kennedy",NDP,British Columbia,46,Male,40
+"Cleary, Ryan",NDP,Newfoundland and Labrador,46,Male,40
+"Côté, Raymond",NDP,Quebec,45,Male,40
+"Clarke, Rob",Conservative,Saskatchewan,45,Male,40
+"Brison, Scott",Liberal,Nova Scotia,45,Male,40
+"Butt, Brad",Conservative,Ontario,45,Male,40
+"Rickford, Greg",Conservative,Ontario,45,Male,40
+"LeBlanc, Dominic",Liberal,New Brunswick,45,Male,40
+"Hoback, Randy",Conservative,Saskatchewan,45,Male,40
+"Caron, Guy",NDP,Quebec,44,Male,40
+"Brahmi, Tarik",NDP,Quebec,44,Male,40
+"Kenney, Jason",Conservative,Alberta,44,Male,40
+"Masse, Brian",NDP,Ontario,44,Male,40
+"Alexander, Chris",Conservative,Ontario,44,Male,40
+"Zimmer, Bob",Conservative,British Columbia,44,Male,40
+"Calkins, Blaine",Conservative,Alberta,44,Male,40
+"Baird, John",Conservative,Ontario,43,Male,40
+"Lake, Mike",Conservative,Alberta,43,Male,40
+"Simms, Scott",Liberal,Newfoundland and Labrador,43,Male,40
+"Thibeault, Glenn",NDP,Ontario,43,Male,40
+"Williamson, John",Conservative,New Brunswick,42,Male,40
+"Calandra, Paul",Conservative,Ontario,42,Male,40
+"Chicoine, Sylvain",NDP,Quebec,42,Male,40
+"Del Mastro, Dean",Conservative,Ontario,42,Male,40
+"Rajotte, James",Conservative,Alberta,42,Male,40
+"Seeback, Kyle",Conservative,Ontario,42,Male,40
+"Watson, Jeff",Conservative,Ontario,41,Male,40
+"Lapointe, François",NDP,Quebec,41,Male,40
+"Nicholls, Jamie",NDP,Quebec,41,Male,40
+"Chong, Michael D.",Conservative,Ontario,41,Male,40
+"Trudeau, Justin",Liberal,Quebec,41,Male,40
+"Larose, Jean-François",NDP,Quebec,40,Male,40
+"Anders, Rob",Conservative,Alberta,40,Male,40
+"Fletcher, Steven John",Conservative,Manitoba,40,Male,40
+"Cullen, Nathan",NDP,British Columbia,40,Male,40
+"Ravignat, Mathieu",NDP,Quebec,39,Male,30
+"Bruinooge, Rod",Conservative,Manitoba,39,Male,30
+"Mai, Hoang",NDP,Quebec,39,Male,30
+"Boulerice, Alexandre",NDP,Quebec,39,Male,30
+"Fortin, Jean-François",Bloc Quebecois,Quebec,39,Male,30
+"Leef, Ryan",Conservative,Territories,38,Male,30
+"Paradis, Christian",Conservative,Quebec,38,Male,30
+"Choquette, François",NDP,Quebec,38,Male,30
+"Moore, Rob",Conservative,New Brunswick,38,Male,30
+"Trost, Brad",Conservative,Saskatchewan,38,Male,30
+"Gill, Parm",Conservative,Ontario,38,Male,30
+"Hillyer, Jim",Conservative,Alberta,38,Male,30
+"Richards, Blake",Conservative,Alberta,38,Male,30
+"Uppal, Tim",Conservative,Alberta,38,Male,30
+"Andrews, Scott",Liberal,Newfoundland and Labrador,37,Male,30
+"Moore, James",Conservative,British Columbia,36,Male,30
+"Lobb, Ben",Conservative,Ontario,36,Male,30
+"Albas, Dan",Conservative,British Columbia,36,Male,30
+"Storseth, Brian",Conservative,Alberta,34,Male,30
+"Strahl, Mark",Conservative,British Columbia,34,Male,30
+"Brown, Patrick W.",Conservative,Ontario,34,Male,30
+"Warkentin, Chris",Conservative,Alberta,34,Male,30
+"Scheer, Andrew",Conservative,Saskatchewan,33,Male,30
+"Poilievre, Pierre",Conservative,Ontario,33,Male,30
+"Genest-Jourdain, Jonathan",NDP,Quebec,33,Male,30
+"Harris, Dan",NDP,Ontario,33,Male,30
+"Tremblay, Jonathan",NDP,Quebec,28,Male,20
+"Morin, Dany",NDP,Quebec,27,Male,20
+"Dubé, Matthew",NDP,Quebec,24,Male,20
+"Dusseault, Pierre-Luc",NDP,Quebec,21,Male,20
+"O'Toole, Erin",Conservative,Ontario,18,Male,10
